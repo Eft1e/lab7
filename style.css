@@ -55,21 +55,21 @@ header a:hover {
   line-height: 1.6;
 }
 
-.hobbies {
+.skills {
   margin-top: 30px;
 }
 
-.hobbies h2 {
+.skills h2 {
   font-size: 24px;
   margin-bottom: 15px;
 }
 
-.hobbies ul {
+.skills ul {
   list-style: none;
   padding: 0;
 }
 
-.hobbies ul li {
+.skills ul li {
   background-color: #f0f0f0;
   margin: 5px auto;
   padding: 10px;
